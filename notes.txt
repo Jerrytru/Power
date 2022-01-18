@@ -1,0 +1,9 @@
+Set up Github
+
+Authentication/Authorization
+  a. Sign in 
+  b. Sign up
+Navigation 
+Set Profile Page 
+
+ Firebase - for data storage and authentication 
